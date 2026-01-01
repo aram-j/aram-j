@@ -1,9 +1,16 @@
 # Hello, World! 👋 
-Hello! I'm Aram, a self taught developer. Currently I'm tinkering with [`C++`](https://en.cppreference.com/w/).
+Hello! I'm Aram, a self taught developer.
 
 - **Name**: Aram,<br>
 - **Birthday**: October 20,<br>
 - **Pronouns**: Preferably He / Him or anthing.
 
 ## Languages
-<img src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4" height="50" width="50" alt="Rust"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="50" width="50" alt="Cpp"> <img src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png" height="50" width="50" alt="TypeScript"> <img src="https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161" height="50" width="50" alt="Bun">
+- [`Zig`](https://ziglang.org/)
+- [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [`Rust`](https://rust-lang.org/)
+- [`Python`](https://docs.python.org/)
+- [`C`](https://www.c-language.org/) *(Not an official website, be careful!)*
+- [`NASM Assembly`](https://www.nasm.us/)
+
+  *Psst, this is not all the languages I use, but the languages I use usually; so don't be surprised to see me coding in other languages 👀*
