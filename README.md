@@ -1,9 +1,9 @@
 # Hello, World! 👋 
 Hello! I'm Aram, a self taught developer.
 
-- **Name**: Aram,<br>
-- **Birthday**: October 20,<br>
-- **Pronouns**: Preferably He / Him or anthing.
+- **Name**: Aram,
+- **Birthday**: October 20,
+- **Pronouns**: Preferably He / Him or anything.
 
 ## Languages
 - [`Zig`](https://ziglang.org/)
